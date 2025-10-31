@@ -19,9 +19,9 @@ The project demonstrates how analytical thinking, visualization, and data storyt
 -	**DAX** -> KPI calculations and measures
 ------
 ## Data Columns
-‘Patient_ID’, ‘Cancer Type’, ‘Age’, ‘Gender’, ‘Smoking’, 'Alcohol Use’, ‘Obesity’, ‘Family History’,
-‘Diet_Red_Meat’, ‘Diet_Salted_Processed’, ‘Physical_Activity’, ‘BMI’, ‘Air_Pollution’.
-‘Occupational_Hazards’, ‘Overall_Risk_Score’, ‘Risk_Level’, ‘Physical_Activity_Level’
+Patient_ID, Cancer Type, Age, Gender, Smoking, Alcohol Use, Obesity, Family History,
+Diet_Red_Meat, Diet_Salted_Processed, Physical_Activity, BMI, Air_Pollution.
+Occupational_Hazards, Overall_Risk_Score, Risk_Level, Physical_Activity_Level
 --------
 ## Visualization Created
 -**KPI Cards:**
